@@ -107,9 +107,8 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "cec.dll" comes first in this list. */
 		"cec.dll",
-		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_24";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_27";
 }

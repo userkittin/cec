@@ -209,6 +209,8 @@ namespace cec
             }
         }
 
+
+
         private void ParseAndDisplay(JsonValue json,int i)
         {      
             TextView usd = FindViewById<TextView>(Resource.Id.usdText);

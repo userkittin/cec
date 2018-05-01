@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>tester</SelectedDevice>
     <DefaultDevice>tester</DefaultDevice>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>

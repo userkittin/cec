@@ -1,0 +1,4 @@
+cec.MainActivity, cec;md50d6b449be19aeb4d717cd2df48d5472d.MainActivity
+cec.MainActivity, cec, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50d6b449be19aeb4d717cd2df48d5472d.MainActivity
+cec.MainActivity;md50d6b449be19aeb4d717cd2df48d5472d.MainActivity
+cec.MainActivity;md50d6b449be19aeb4d717cd2df48d5472d.MainActivity
