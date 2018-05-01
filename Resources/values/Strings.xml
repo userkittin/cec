@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">cec</string>
+  <string name="typeResult">Time length</string>
+  <string-array name="resultArray">
+    <item>minute</item>
+    <item>hour</item>
+    <item>day</item>
+    <item>week</item>
+    <item>month</item>
+  </string-array>
+</resources>
